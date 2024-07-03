@@ -28,7 +28,7 @@ function NavBar({ userData, setUserData }) {
       </p>
       <Menu size="large">
         <Container>
-          <Menu.Item as="a" active>
+          <Menu.Item onClick={() => navigate("/")} as="a" active>
             Users
           </Menu.Item>
           <Menu.Item as="a">Posted Items</Menu.Item>
