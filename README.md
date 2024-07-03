@@ -1,6 +1,6 @@
 # Charity App Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Semantic-UI React](https://react.semantic-ui.com/). For the databases, [Supabase](https://supabase.com/) was used.
 This app is used to create Admin Dashboard for a Charity App.
 
 ## Available Scripts
